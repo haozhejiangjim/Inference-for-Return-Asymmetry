@@ -47,7 +47,7 @@ agg = np.sqrt(len(df)) * df.mean()
 print(agg[agg.abs() > 1.959964].sort_values())   # 15 stocks, all negative
 ```
 
-This reproduces Figure 4 of the paper.
+This reproduces Figure 1 of the paper.
 
 ## Data availability
 
