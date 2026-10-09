@@ -1,0 +1,2 @@
+We propose a nonparametric test of return asymmetry based on the realized quadratic covariation. We then apply the proposed hypothesis test to U.S. stock market data, sourced from the TAQ database. Our sample includes 165 highly liquid stocks with a complete record of 5-minute intraday returns from
+April 1998 to April 2025. The "Real-World_Statistics.csv" file contains all the test statistics of these 165 stocks in our real-world application.
